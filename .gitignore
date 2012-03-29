@@ -1,0 +1,13 @@
+# Lines starting with '#' are considered comments.
+# Ignore any file named foo.txt.
+#foo.txt
+*.class
+*.apk
+*.dex
+*.class~
+*.java~
+*.gitignore~
+# except foo.html which is maintained by hand.
+#!foo.html
+# Ignore objects and archives.
+#*.[oa]

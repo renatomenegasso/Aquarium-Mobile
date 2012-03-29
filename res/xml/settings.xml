@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+   xmlns:android="http://schemas.android.com/apk/res/android" >
+   
+	<EditTextPreference 
+		android:key="ip"
+		android:title="Url do aquário"
+		android:summary="Url publica do seu aquário" android:dialogTitle="Url do aquário"
+		android:defaultValue="127.0.0.1" />
+	
+	<EditTextPreference 
+		android:key="tempo"
+		android:title="Tempo de atualização"
+		android:summary="Tempo de atualização das infomações, em segundos" android:dialogTitle="Tempo (s)"
+		android:defaultValue="30" />
+
+</PreferenceScreen>

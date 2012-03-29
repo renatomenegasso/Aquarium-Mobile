@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Monitor de aquario</string>
+    <string name="atualizar_agora">Atualizar agora</string>
+    <string name="lbl_luz">Luz do aquário</string>
+    <string name="light">Luz</string>
+    <string name="pump">Bomba</string>
+    <string name="alimentator">Alimentador</string>
+    <string name="heater">Aquecedor</string>
+    <string name="msg_communication_error">Erro ao se comunicar com o aquário</string>
+    <string name="msg_aquarium_online">Comunicação com o aquário ok</string>
+    <string name="msg_aquarium_offline">Sem comunicação com o aquário</string>
+    <string name="lbl_temperatura">Temperatura:</string>
+    <string name="empty_temperature">0ºC</string>
+    <string name="configs_label">Configurações</string>
+    <string name="btn_alimentator">Alimentar</string>
+    <string name="service_off">Sem comunicação com o aquário</string>
+    <string name="service_on">Comunicação com o aquário ok</string>
+    
+    <string name="alimentator_trigger_ok">Alimentador disparado</string>
+    <string name="data_updated">Dados atualizados</string>
+    <string name="operation_success">Ação realizada com sucesso!</string>
+    <string name="number_error">O intervalo deve ser um numero inteiro</string>
+    
+    <string name="light_on">A luz do aquario ascendeu</string>
+    <string name="light_off">A luz do aquario apagou</string>
+    <string name="pump_on">A bomba do aquário ligou</string>
+    <string name="pump_off">A bomba do aquário desligou</string>
+    <string name="heater_on">O aquecedor do aquário ligou</string>
+    <string name="heater_off">O aquecedor do aquário desligou</string>
+    
+</resources>
